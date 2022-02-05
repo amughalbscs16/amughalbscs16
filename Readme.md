@@ -4,7 +4,6 @@ I’m currently learning everything 🤓
 ### Languages and Tools:
 
 <img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Spark" title="Spark" width="26px" src="https://raw.githubusercontent.com/awesome-spark/awesome-spark/master/spark-logo-trademark.svg" />
 <img align="left" alt="Tensorflow" title="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="OpenCV" title="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 <img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -21,16 +20,6 @@ I’m currently learning everything 🤓
 
 <br />
 
-### Connect with me:
-<!--
-[<img align="left" alt="alihassaanmughal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rhasnainanwar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="rhasnainanwar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="rhasnainanwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
--->
-<br />
 
----
-
-![Hasnain's github stats](https://github-readme-stats.vercel.app/api?username=amughalbscs16&count_private=true&show_icons=true)
-![Hasnain's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amughalbscs16&count_private=true&hide=jupyter%20notebook&layout=compact)
+![Ali's github stats](https://github-readme-stats.vercel.app/api?username=amughalbscs16&count_private=true&show_icons=true)
+![Ali's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amughalbscs16&count_private=true&hide=jupyter%20notebook&layout=compact)
