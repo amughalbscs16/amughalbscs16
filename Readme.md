@@ -1,5 +1,7 @@
 ## Hi there, this is Ali Hassaan Mughal!
-I decide the language as per it's capabilities. Both a Team Player and an Self-Learner. 
+I decide the language as per it's capabilities. Both a Team Player and an Self-Learner.
+</br>
+<h5> And! </h5>
 I’m currently learning everything 🤓
 
 ### Languages and Tools:
