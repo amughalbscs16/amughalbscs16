@@ -27,4 +27,4 @@ I’m currently learning everything 🤓
 ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=amughalbscs16&count_private=true&show_icons=true)
 ![Ali's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amughalbscs16&count_private=true&hide=jupyter%20notebook&layout=compact)
 
-<h4> I would also include C++ in the list of my most used language </h4>
+<h4> Note: I would also include C++ in the list of my most used languages. </h4>
