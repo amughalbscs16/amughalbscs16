@@ -1,5 +1,5 @@
 ## Hi there, this is Ali Hassaan Mughal!
-I decide the language as per it's capabilities. Both a Team Player and an Self-Learner.
+I decide the language as per it's capabilities. Both a Team Player and an Self-Learner. Most of my work since 2020 has been in Private Repositories, Hence not many updates on the Github.
 </br>
 <h5> And! </h5>
 I’m currently learning everything 🤓
