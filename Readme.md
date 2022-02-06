@@ -1,5 +1,5 @@
 ## Hi there, this is Ali Hassaan Mughal!
-I decide the language as per it's capabilities. Both a Team Player and an Self-Learner. Most of my work since 2020 has been in Private Repositories, Hence not many updates on the Github.
+I decide the language as per it's capabilities. Both a Team Player and an Self-Learner. Most of my work since 2020 has been in Private Repositories, Hence not many updates on the Github. 
 </br>
 <h5> And! </h5>
 I’m currently learning everything 🤓
@@ -26,3 +26,5 @@ I’m currently learning everything 🤓
 
 ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=amughalbscs16&count_private=true&show_icons=true)
 ![Ali's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amughalbscs16&count_private=true&hide=jupyter%20notebook&layout=compact)
+
+<h4> I would also include C++ in the list of my most used language </h4>
