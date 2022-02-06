@@ -1,5 +1,9 @@
 ## Hi there, this is Ali Hassaan Mughal!
-I've been programming since I was 12 (dates back to 2010). I decide the language as per it's capabilities. Both a Team Player and an Self-Learner. Most of my work since 2020 has been in Private Repositories, Hence not many updates on the Github. 
+I've been programming since I was 12 (dates back to 2010). I decide the language as per it's capabilities.
+</br>
+Both a Team Player and an Self-Learner.
+</br>
+Most of my work since 2020 has been in Private Repositories, Hence not many updates on the Github. 
 </br>
 <h5> And! </h5>
 I’m currently learning everything 🤓
