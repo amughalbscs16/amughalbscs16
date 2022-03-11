@@ -1,7 +1,7 @@
 ## Welcome to Ali Hassaan's Programming Portfolio
 <ul>  
   <li>I've been programming since I was 12 (dates back to 2010). I am used to deciding the language as per it's capabilities.</li>
-  <li>Both a Team Player and a Self-Learner.</li>  
+  <li>A Teamplayer who likes to initiate.</li>  
   <li>Most of my work since 2020 has been in Private Repositories, Hence, not many updates on the Github. </li>
 </ul>
 <h5> And! </h5>
