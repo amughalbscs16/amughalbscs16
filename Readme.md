@@ -24,10 +24,5 @@ I’m currently learning everything 🤓
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<br />
-
-
-![Ali's github stats](https://github-readme-stats.vercel.app/api?username=amughalbscs16&count_private=true&show_icons=true)
-![Ali's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amughalbscs16&count_private=true&hide=jupyter%20notebook&layout=compact)
 
 <h4> Note: I would also include C++ in the list of my most used languages. </h4>
