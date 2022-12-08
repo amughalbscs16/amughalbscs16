@@ -1,7 +1,7 @@
 ## Welcome to Ali Hassaan's Programming Portfolio
 <ul>  
   <li>I have been in the field since I was 12 (dates back to 2010). I am used to deciding the languages and frameworks as per their capabilities.</li>
-  <li>A Teamplayer who likes to initiate.</li>  
+  <li>A very reasonable and agreeable teamplayer, who likes to initiate.</li>  
   <li>Most of my work since 2020 has been in Private Repositories.</li>
 </ul>
 <h5> And! </h5>
