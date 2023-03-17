@@ -5,8 +5,8 @@
   <li>A very reasonable and agreeable teamplayer, who likes to initiate.</li>  
   <li>Most of my work since 2020 has been in Private Repositories.</li>
 </ul>
-<h5> And! </h5>
-I’m currently learning everything 🤓
+<h5> And, </h5>
+The learning never stops
 
 ### Languages and Tools:
 <img align="left" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
