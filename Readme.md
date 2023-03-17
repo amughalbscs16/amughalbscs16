@@ -1,7 +1,7 @@
 ## Welcome to Ali Hassaan's Programming Portfolio
 <ul>  
   <li>I have been in the field since 2010. I have worked in leading SDE and SW Architect positions with Devops requirements.</li>
-<li>am used to deciding the languages and frameworks as per their capabilities.</li>
+  <li>I am used to deciding the languages and frameworks as per their capabilities.</li>
   <li>A very reasonable and agreeable teamplayer, who likes to initiate.</li>  
   <li>Most of my work since 2020 has been in Private Repositories.</li>
 </ul>
