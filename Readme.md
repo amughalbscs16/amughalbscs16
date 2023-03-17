@@ -6,7 +6,7 @@
   <li>Most of my work since 2020 has been in Private Repositories.</li>
 </ul>
 <h5> And, </h5>
-The learning never stops
+The learning process continued..
 
 ### Languages and Tools:
 <img align="left" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
