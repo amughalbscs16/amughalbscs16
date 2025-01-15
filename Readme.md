@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/amughalbscs16/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/amughalbscs16/count.svg" alt="Visitor's Count(Since Jan 14,2025)" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=amughalbscs16&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="amughalbscs16's GitHub Stats" />
