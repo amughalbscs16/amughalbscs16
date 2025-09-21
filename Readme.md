@@ -3,7 +3,7 @@
   <a href="https://github.com/amughalbscs16/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=amughalbscs16&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
-## Welcome to Ali Hassaan's Programming Portfolio
+#Welcome to Ali Hassaan's Programming Portfolio
 <ul>  
   <li>I have been in the field since 2010. I have worked in leading SDE and SW Architect positions in startups-small sized companies (between 2011 - 2020) with Devops experience.</li>
   <li>I am used to deciding the languages and frameworks as per their capabilities.</li>
